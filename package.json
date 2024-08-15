@@ -2,7 +2,7 @@
   "name": "goit-js-hw-09",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/goit-js-hw-09",
+  "homepage": "https://pptzz.github.io/goit-js-hw-09",
   "type": "module",
   "scripts": {
     "start": "parcel src/*.html",
@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/goit-js-hw-09.git"
+    "url": "git+https://github.com/pptzz/goit-js-hw-09.git"
   },
   "keywords": [],
   "author": "Alexandru Poputa <poputa.alex@gmail.cpm>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/goit-js-hw-09/issues"
+    "url": "https://github.com/pptzz/goit-js-hw-09/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
